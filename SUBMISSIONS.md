@@ -16,7 +16,7 @@ things are repeated to capture the right stuff**
 
 - Travis CI dashboard showing successful build after change
 
-![groupID change success](images/Build_Success_cordinates_correct.PNG)
+![groupID change success](images/Build_Success_GroupID_Change.PNG)
 
 - The Section of the POM file showing the coordinates after you've commented them out
 
