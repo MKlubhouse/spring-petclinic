@@ -2,7 +2,7 @@
 
 - Click to expose the Docker File Contents
 
-[Docker ps command Contents](images/DockerPS.PNG)
+![Docker ps command Contents](images/DockerPS.PNG)
 
 - Docker Process list showing the running Docker image.
 
